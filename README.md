@@ -15,7 +15,7 @@ HTML5
 
 CSS3 (Flexbox/Grid for layout)
 
-###🎯 Learning Objectives
+### 🎯 Learning Objectives
 Practice HTML structure for media content
 
 Use CSS Flexbox/Grid for responsive design
