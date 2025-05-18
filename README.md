@@ -10,3 +10,7 @@ This project is a responsive image gallery named ARCHIVE, built using pure HTML 
 🖱️ Hover effects (optional, add in CSS)
 
 🧩 Easy to extend with more images or captions
+### 🛠️ Technologies Used
+HTML5
+
+CSS3 (Flexbox/Grid for layout)
